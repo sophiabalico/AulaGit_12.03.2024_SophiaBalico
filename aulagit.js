@@ -1,6 +1,6 @@
 //ler o ano de nascimento = A
-let ano = 1900;
+let an = 1900;
 //subtrair 2024 por 2007
-let atualano = 2024 - ano;
+let atualano = 2024 - an;
 //exibir idade.
 console.log(resultado);
